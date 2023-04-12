@@ -1,5 +1,5 @@
 # SLackOFFocus
-Local Slack productivity plugin base code.
+Local Slack productivity plugin project.
 
 An application to help improve focus of working teams. 
 
