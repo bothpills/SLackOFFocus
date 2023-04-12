@@ -7,7 +7,7 @@ Predefine a specific amount of time for the duration of work sessions (e.g. 20 m
 
 ---
 
-Next features:
+# Next features:
 
   - Enable to not start a new work session for members that are still talking. The following work session will last for less time, discounting the extra minutes used in orther to maintain synchronization.
   - Enable users to send messages during the work session. Messages should go into standby mode, and not be rejected.
